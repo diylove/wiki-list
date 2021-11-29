@@ -18,3 +18,10 @@
 
 ### 本地知识
 - [Local Wiki](https://localwiki.org)：本地邻里和在地知识的英文维基，以城市和邻里为单位。
+
+## 贡献
+直接发 Pull Request。如果不会的话也可以提交 Issues
+
+## 相关
+中文独立博客列表：https://github.com/timqian/chinese-independent-blogs
+GitHub 上中文列表合集：https://github.com/icopy-site/awesome-cn/
